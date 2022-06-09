@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T21:31:46.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="K_g7WAjNUSggjlunwH0X" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T21:34:23.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SFNIITNXIF4sK0c8Q2C2" version="19.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HpB_t-XAK3ZvMhsDskCz-2" value="rented" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="zkfFHV4jXpPFQw0GAbJ--26">
+        <mxCell id="HpB_t-XAK3ZvMhsDskCz-2" value="rents" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="zkfFHV4jXpPFQw0GAbJ--26">
           <mxGeometry x="0.0829" y="-2" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
@@ -111,7 +111,7 @@
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HpB_t-XAK3ZvMhsDskCz-8" value="purchased" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="HpB_t-XAK3ZvMhsDskCz-6">
+        <mxCell id="HpB_t-XAK3ZvMhsDskCz-8" value="purchases" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="HpB_t-XAK3ZvMhsDskCz-6">
           <mxGeometry x="0.0829" y="-2" relative="1" as="geometry">
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
